@@ -1,5 +1,9 @@
 # rss-projects
 
+## Description
+
+The projects are made from ground zero during studying at [RS School](https://rs.school/ "RS School")(2021 #1)
+
 ## Virtual Piano
 
 https://rolling-scopes-school.github.io/alexanchek-JSFE2021Q1/virtual-piano/ - The little app for playing the piano. Developed using html/css and vanilla Java Script.
